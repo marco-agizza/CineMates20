@@ -1,0 +1,39 @@
+com/SoftEngUniNA/CineMates20Desktop/models/Operator.java
+ com.SoftEngUniNA.CineMates20Desktop.models.Operator
+com/SoftEngUniNA/CineMates20Desktop/controllers/Connection.java
+ com.SoftEngUniNA.CineMates20Desktop.controllers.Connection
+com/SoftEngUniNA/CineMates20Desktop/views/MainPage.java
+ com.SoftEngUniNA.CineMates20Desktop.views.MainPage
+ com.SoftEngUniNA.CineMates20Desktop.views.MainPage$1
+ com.SoftEngUniNA.CineMates20Desktop.views.MainPage$2
+ com.SoftEngUniNA.CineMates20Desktop.views.MainPage$3
+ com.SoftEngUniNA.CineMates20Desktop.views.MainPage$4
+com/SoftEngUniNA/CineMates20Desktop/controllers/AuthenticationController.java
+ com.SoftEngUniNA.CineMates20Desktop.controllers.AuthenticationController
+com/SoftEngUniNA/CineMates20Desktop/Main.java
+ com.SoftEngUniNA.CineMates20Desktop.Main
+com/SoftEngUniNA/CineMates20Desktop/controllers/StatsPageController.java
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$1
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$10
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$2
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$3
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$4
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$5
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$6
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$7
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$8
+ com.SoftEngUniNA.CineMates20Desktop.controllers.StatsPageController$9
+com/SoftEngUniNA/CineMates20Desktop/models/User.java
+ com.SoftEngUniNA.CineMates20Desktop.models.User
+com/SoftEngUniNA/CineMates20Desktop/views/AuthenticationPage.java
+ com.SoftEngUniNA.CineMates20Desktop.views.AuthenticationPage
+ com.SoftEngUniNA.CineMates20Desktop.views.AuthenticationPage$1
+ com.SoftEngUniNA.CineMates20Desktop.views.AuthenticationPage$2
+com/SoftEngUniNA/CineMates20Desktop/models/Review.java
+ com.SoftEngUniNA.CineMates20Desktop.models.Review
+com/SoftEngUniNA/CineMates20Desktop/views/ConfirmDialog.java
+ com.SoftEngUniNA.CineMates20Desktop.views.ConfirmDialog
+ com.SoftEngUniNA.CineMates20Desktop.views.ConfirmDialog$1
+com/SoftEngUniNA/CineMates20Desktop/models/MovieList.java
+ com.SoftEngUniNA.CineMates20Desktop.models.MovieList

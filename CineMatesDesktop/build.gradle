@@ -1,0 +1,31 @@
+apply plugin: 'java'
+apply plugin: 'jacoco'
+apply plugin: 'application'
+
+
+mainClassName = 'com.SoftEngUniNA.CineMates20Desktop.Main'
+//buildscript{
+    
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        testImplementation     'junit:junit:4.13'
+
+        //SDK Firebase admin
+        implementation 'com.google.firebase:firebase-admin:7.1.1'
+
+        //Solution to ->   SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder"
+        implementation 'org.slf4j:slf4j-nop:1.7.25'
+
+        implementation files ('libs/KControls.jar','libs/AbsoluteLayout.jar')
+
+    }
+
+    gradle.projectsEvaluated {
+        tasks.withType(JavaCompile){
+            options.compilerArgs << "-Xlint:deprecation"
+        }
+    }
+//}
